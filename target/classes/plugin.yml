@@ -1,0 +1,17 @@
+name: PlayerTime
+version: 1.0.7-RELEASE
+main: me.glaremasters.playertime.PlayerTime
+authors: [blockslayer22]
+description: PlayerTime
+website: https://glaremasters.me/discord
+
+commands:
+  ptcheck:
+    description: Check your player time
+    usage: /ptcheck
+  pttop:
+    description: Check the top times
+    usage: /pttop
+  ptreload:
+    description: Reload config
+    ussage: /ptreload
